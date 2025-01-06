@@ -1,5 +1,8 @@
 # ForumHub
 
+<img src = Badge-Spring.png>
+
+
 ForumHub é uma API REST criada em Java que simula o funcionamento de um fórum online. Este projeto foi desenvolvido como parte da formação backend com Java Spring da Oracle Next Education em parceira com a alura.
 
 
